@@ -17,3 +17,4 @@ hello world! hello git! master test
 hello world! hello git!	hot-fix test
 我修改了远程仓库
 免密登录成功否？
+成功了，yyds
